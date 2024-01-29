@@ -1,0 +1,57 @@
+2023-08-22 00:39:12,085 INFO o.s.b.StartupInfoLogger [main] Starting ApplicationTests using Java 17.0.8 with PID 92114 (started by globalvox in /home/globalvox/Documents/projects/java/user.api)
+2023-08-22 00:39:12,088 INFO o.s.b.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-08-22 00:39:14,538 INFO o.s.b.StartupInfoLogger [main] Started ApplicationTests in 2.649 seconds (process running for 3.421)
+2023-08-22 00:41:00,501 INFO o.s.b.StartupInfoLogger [main] Starting ApplicationTests using Java 17.0.8 with PID 92677 (started by globalvox in /home/globalvox/Documents/projects/java/user.api)
+2023-08-22 00:41:00,514 INFO o.s.b.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-08-22 00:41:03,008 INFO o.s.b.StartupInfoLogger [main] Started ApplicationTests in 2.653 seconds (process running for 3.425)
+2023-08-22 00:41:53,207 INFO o.s.b.StartupInfoLogger [main] Starting ApplicationTests using Java 17.0.8 with PID 93107 (started by globalvox in /home/globalvox/Documents/projects/java/user.api)
+2023-08-22 00:41:53,210 INFO o.s.b.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-08-22 00:41:56,067 INFO o.s.b.StartupInfoLogger [main] Started ApplicationTests in 3.039 seconds (process running for 3.822)
+2023-08-22 00:44:10,796 INFO o.s.b.StartupInfoLogger [main] Starting ApplicationTests using Java 17.0.8 with PID 93976 (started by globalvox in /home/globalvox/Documents/projects/java/user.api)
+2023-08-22 00:44:10,798 INFO o.s.b.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-08-22 00:44:13,165 INFO o.s.b.StartupInfoLogger [main] Started ApplicationTests in 2.529 seconds (process running for 3.322)
+2023-08-22 00:47:22,057 INFO o.s.b.StartupInfoLogger [main] Starting ApplicationTests using Java 17.0.8 with PID 94523 (started by globalvox in /home/globalvox/Documents/projects/java/user.api)
+2023-08-22 00:47:22,069 INFO o.s.b.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-08-22 00:47:25,161 INFO o.s.b.StartupInfoLogger [main] Started ApplicationTests in 3.27 seconds (process running for 4.011)
+2023-08-22 00:47:49,044 INFO o.s.b.StartupInfoLogger [main] Starting ApplicationTests using Java 17.0.8 with PID 94794 (started by globalvox in /home/globalvox/Documents/projects/java/user.api)
+2023-08-22 00:47:49,056 INFO o.s.b.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-08-22 00:47:51,437 INFO o.s.b.StartupInfoLogger [main] Started ApplicationTests in 2.542 seconds (process running for 3.343)
+2023-08-22 00:47:58,565 INFO o.s.b.StartupInfoLogger [restartedMain] Starting Application using Java 17.0.8 with PID 94943 (/home/globalvox/Documents/projects/java/user.api/target/classes started by globalvox in /home/globalvox/Documents/projects/java/user.api)
+2023-08-22 00:47:58,567 INFO o.s.b.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-08-22 00:48:01,225 INFO o.s.b.StartupInfoLogger [restartedMain] Started Application in 2.873 seconds (process running for 3.224)
+2023-08-22 00:48:32,131 INFO o.s.b.StartupInfoLogger [main] Starting ApplicationTests using Java 17.0.8 with PID 95196 (started by globalvox in /home/globalvox/Documents/projects/java/user.api)
+2023-08-22 00:48:32,133 INFO o.s.b.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-08-22 00:48:34,518 INFO o.s.b.StartupInfoLogger [main] Started ApplicationTests in 2.549 seconds (process running for 3.315)
+2023-08-22 00:48:40,096 INFO o.s.b.StartupInfoLogger [restartedMain] Starting Application using Java 17.0.8 with PID 95348 (/home/globalvox/Documents/projects/java/user.api/target/classes started by globalvox in /home/globalvox/Documents/projects/java/user.api)
+2023-08-22 00:48:40,099 INFO o.s.b.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-08-22 00:48:42,968 INFO o.s.b.StartupInfoLogger [restartedMain] Started Application in 3.098 seconds (process running for 3.543)
+2023-08-22 00:49:52,320 INFO o.s.b.StartupInfoLogger [restartedMain] Starting Application using Java 17.0.8 with PID 95627 (/home/globalvox/Documents/projects/java/user.api/target/classes started by globalvox in /home/globalvox/Documents/projects/java/user.api)
+2023-08-22 00:49:52,332 INFO o.s.b.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-08-22 00:49:55,065 INFO o.s.b.StartupInfoLogger [restartedMain] Started Application in 2.994 seconds (process running for 3.428)
+2023-08-22 00:50:36,539 INFO o.s.b.StartupInfoLogger [restartedMain] Starting Application using Java 17.0.8 with PID 95627 (/home/globalvox/Documents/projects/java/user.api/target/classes started by globalvox in /home/globalvox/Documents/projects/java/user.api)
+2023-08-22 00:50:36,539 INFO o.s.b.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-08-22 00:50:36,967 INFO o.s.b.StartupInfoLogger [restartedMain] Started Application in 0.445 seconds (process running for 45.33)
+2023-08-22 00:50:45,469 INFO o.s.b.StartupInfoLogger [restartedMain] Starting Application using Java 17.0.8 with PID 95849 (/home/globalvox/Documents/projects/java/user.api/target/classes started by globalvox in /home/globalvox/Documents/projects/java/user.api)
+2023-08-22 00:50:45,472 INFO o.s.b.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-08-22 00:50:48,457 INFO o.s.b.StartupInfoLogger [restartedMain] Started Application in 3.247 seconds (process running for 3.662)
+2023-08-22 00:52:10,973 INFO o.s.b.StartupInfoLogger [restartedMain] Starting Application using Java 17.0.8 with PID 95849 (/home/globalvox/Documents/projects/java/user.api/target/classes started by globalvox in /home/globalvox/Documents/projects/java/user.api)
+2023-08-22 00:52:10,983 INFO o.s.b.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-08-22 00:52:11,513 INFO o.s.b.StartupInfoLogger [restartedMain] Started Application in 0.566 seconds (process running for 86.718)
+2023-08-22 00:52:15,973 INFO o.s.b.StartupInfoLogger [restartedMain] Starting Application using Java 17.0.8 with PID 95849 (/home/globalvox/Documents/projects/java/user.api/target/classes started by globalvox in /home/globalvox/Documents/projects/java/user.api)
+2023-08-22 00:52:15,974 INFO o.s.b.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-08-22 00:52:16,362 INFO o.s.b.StartupInfoLogger [restartedMain] Started Application in 0.405 seconds (process running for 91.567)
+2023-08-22 00:52:46,848 INFO o.s.b.StartupInfoLogger [restartedMain] Starting Application using Java 17.0.8 with PID 95849 (/home/globalvox/Documents/projects/java/user.api/target/classes started by globalvox in /home/globalvox/Documents/projects/java/user.api)
+2023-08-22 00:52:46,848 INFO o.s.b.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-08-22 00:52:47,221 INFO o.s.b.StartupInfoLogger [restartedMain] Started Application in 0.389 seconds (process running for 122.426)
+2023-08-22 00:52:49,675 INFO o.s.b.StartupInfoLogger [restartedMain] Starting Application using Java 17.0.8 with PID 95849 (/home/globalvox/Documents/projects/java/user.api/target/classes started by globalvox in /home/globalvox/Documents/projects/java/user.api)
+2023-08-22 00:52:49,675 INFO o.s.b.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-08-22 00:52:49,965 INFO o.s.b.StartupInfoLogger [restartedMain] Started Application in 0.309 seconds (process running for 125.17)
+2023-08-22 00:53:29,461 INFO o.s.b.StartupInfoLogger [restartedMain] Starting Application using Java 17.0.8 with PID 95849 (/home/globalvox/Documents/projects/java/user.api/target/classes started by globalvox in /home/globalvox/Documents/projects/java/user.api)
+2023-08-22 00:53:29,471 INFO o.s.b.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-08-22 00:53:29,746 INFO o.s.b.StartupInfoLogger [restartedMain] Started Application in 0.299 seconds (process running for 164.951)
+2023-08-22 00:55:14,302 INFO o.s.b.StartupInfoLogger [restartedMain] Starting Application using Java 17.0.8 with PID 95849 (/home/globalvox/Documents/projects/java/user.api/target/classes started by globalvox in /home/globalvox/Documents/projects/java/user.api)
+2023-08-22 00:55:14,303 INFO o.s.b.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-08-22 00:55:14,642 INFO o.s.b.StartupInfoLogger [restartedMain] Started Application in 0.358 seconds (process running for 269.847)
+2023-08-22 00:55:19,096 INFO o.s.b.StartupInfoLogger [restartedMain] Starting Application using Java 17.0.8 with PID 95849 (/home/globalvox/Documents/projects/java/user.api/target/classes started by globalvox in /home/globalvox/Documents/projects/java/user.api)
+2023-08-22 00:55:19,096 INFO o.s.b.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-08-22 00:55:19,352 INFO o.s.b.StartupInfoLogger [restartedMain] Started Application in 0.268 seconds (process running for 274.557)

@@ -1,0 +1,7 @@
+2023-08-22 09:54:38,407 INFO o.s.b.StartupInfoLogger [restartedMain] Starting Application using Java 17.0.8 with PID 6392 (/home/globalvox/Documents/projects/java/user.api/target/classes started by globalvox in /home/globalvox/Documents/projects/java/user.api)
+2023-08-22 09:54:38,410 INFO o.s.b.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-08-22 09:54:41,567 INFO o.s.b.StartupInfoLogger [restartedMain] Started Application in 3.392 seconds (process running for 3.807)
+2023-08-22 09:55:11,308 INFO o.s.b.StartupInfoLogger [restartedMain] Starting Application using Java 17.0.8 with PID 6595 (/home/globalvox/Documents/projects/java/user.api/target/classes started by globalvox in /home/globalvox/Documents/projects/java/user.api)
+2023-08-22 09:55:11,351 INFO o.s.b.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-08-22 09:55:14,159 INFO o.s.b.StartupInfoLogger [restartedMain] Started Application in 3.102 seconds (process running for 3.464)
+2023-08-22 09:55:18,063 INFO c.e.u.a.c.UserController [http-nio-8080-exec-2] contoll
